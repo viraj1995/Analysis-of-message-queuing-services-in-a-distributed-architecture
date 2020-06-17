@@ -1,0 +1,4 @@
+"Method","Name","Error","Occurrences"
+"POST","/courses","504 Server Error: GATEWAY_TIMEOUT for url: http://sqs-1598888457.us-east-1.elb.amazonaws.com:3001/courses",772
+"POST","/courses","('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))",7
+"POST","/courses","503 Server Error: Service Unavailable: Back-end server is at capacity for url: http://sqs-1598888457.us-east-1.elb.amazonaws.com:3001/courses",1223
