@@ -9,7 +9,7 @@
   "author": "Sanjay Nag B R",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.8",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
